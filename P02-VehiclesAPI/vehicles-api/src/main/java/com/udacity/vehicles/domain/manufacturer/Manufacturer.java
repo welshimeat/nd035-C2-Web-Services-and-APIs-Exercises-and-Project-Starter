@@ -20,6 +20,14 @@ public class Manufacturer {
         this.name = name;
     }
 
+    public void setCode(Integer code) {
+        this.code = code;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
     public Integer getCode() {
         return code;
     }
